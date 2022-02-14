@@ -1,4 +1,4 @@
-![Terkey Termux Key](screenshot.jpg)
+![Key Control Termux Key](key control.jpg)
 
 # Terkey
 Is a tool for add keys to your Termux app.

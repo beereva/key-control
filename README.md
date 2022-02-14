@@ -1,6 +1,6 @@
 ![Key Control Termux Key](key-control.jpg)
 
-# Terkey
+# Key-Control
 Is a tool for add keys to your Termux app.
 
 ## Cara Penginstalan
